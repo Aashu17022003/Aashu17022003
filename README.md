@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flutter Dart
 - 🤔 I’m looking for a frontend Devloper role
 - 📫 How to reach me: akchanchal2002@gmail.com 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-chanchal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-chanchal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![@aashu_ch's Holopin board](https://holopin.me/aashu_ch)](https://holopin.io/@aashu_ch)
 
 <h3 align="center">A passionate full Stack Developer from India</h3>
