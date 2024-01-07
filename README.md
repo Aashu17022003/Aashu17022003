@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a frontend Devloper role
 - 📫 How to reach me: akchanchal2002@gmail.com 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-chanchal&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-chanchal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
