@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React js
-- 🌱 I’m currently learning flutter Dart
+- 🌱 I’m currently learning Express JS
 - 🤔 I’m looking for a frontend Devloper role
 - 📫 How to reach me: akchanchal2002@gmail.com 
 # 📊 GitHub Stats:
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **akchanchal2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tRmNvUle_bKi-ZdyepCHyj0wq0cPWBti/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1tRmNvUle_bKi-ZdyepCHyj0wq0cPWBti/view?usp=sharing](https://drive.google.com/file/d/105lDwcWenzrpZmccnCBzOh_bMxOowsuT/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
